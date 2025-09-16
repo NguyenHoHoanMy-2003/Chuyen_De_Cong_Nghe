@@ -1,0 +1,9 @@
+.venv/
+venv/
+.vscode/
+djangotutorial/
+model_layer/
+db.sqlite3
+**/__pycache__/
+*.pyc
+view_templates/
